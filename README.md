@@ -59,15 +59,15 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade d
 
 #### 🗃️ Programação de Computadores
 | :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** |Um programa que analisa a consitência de dados financeiros, utilizando escopo global/loal para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./https://bb.cruzeirodosulvirtual.com.br/auth-saml/saml/login?apId=_5073_1&redirectUrl=https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1153678_1/outline/assessment/_22315334_1/overview/student-submission-view?contentId%3D_22315334_1%26gradeId%3D_191880867_1%26attemptId%3D_217044003_1%26courseId%3D_1153678_1/) 
+| **Algoritmo de Auditoria de Dados** |Um programa que analisa a consitência de dados financeiros, utilizando escopo global/loal para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./) 
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** |Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./https://bb.cruzeirodosulvirtual.com.br/auth-saml/saml/login?apId=_5073_1&redirectUrl=https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1153678_1/outline/assessment/_22465370_1/overview/student-submission-view?contentId%3D_22465370_1%26gradeId%3D_193269846_1%26attemptId%3D_218769502_1%26courseId%3D_1153678_1/) 
+| **Engenharia de Soluções Lógicas** |Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto]() 
 | :--- | :--- | :---: |
-| **Modularização** |A arte da modularização. | [Ver Projeto](./https://bb.cruzeirodosulvirtual.com.br/auth-saml/saml/login?apId=_5073_1&redirectUrl=https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1153678_1/outline/assessment/_22367921_1/overview/student-submission-view?contentId%3D_22367921_1%26gradeId%3D_192343583_1%26attemptId%3D_217557359_1%26courseId%3D_1153678_1/) 
+| **Modularização** |A arte da modularização. | [Ver Projeto](./) 
 | :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** |Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./https://bb.cruzeirodosulvirtual.com.br/auth-saml/saml/login?apId=_5073_1&redirectUrl=https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1153678_1/outline/assessment/_22489321_1/overview/student-submission-view?contentId%3D_22489321_1%26gradeId%3D_193681299_1%26attemptId%3D_219289478_1%26courseId%3D_1153678_1/) 
+| **Traduzindo Lógica para Python** |Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./) 
 | :--- | :--- | :---: |
-| **Engenharia de Contexto e Lógica Física** |Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./https://bb.cruzeirodosulvirtual.com.br/auth-saml/saml/login?apId=_5073_1&redirectUrl=https://bb.cruzeirodosulvirtual.com.br/ultra/courses/_1153678_1/outline/assessment/_22598145_1/overview/student-submission-view?contentId%3D_22598145_1%26gradeId%3D_194149081_1%26attemptId%3D_219883907_1%26courseId%3D_1153678_1/) 
+| **Engenharia de Contexto e Lógica Física** |Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./) 
 
  
 #### 🗃️ Modelagem de Banco de Dados
