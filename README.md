@@ -59,7 +59,7 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade d
 
 #### 🗃️ Programação de Computadores
 | :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** |Um programa que analisa a consitência de dados financeiros, utilizando escopo global/loal para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./) 
+| **Algoritmo de Auditoria de Dados** |Um programa que analisa a consitência de dados financeiros, utilizando escopo global/loal para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./algoritimo-de-auditoria-de-dados/) 
 | :--- | :--- | :---: |
 | **Engenharia de Soluções Lógicas** |Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto]() 
 | :--- | :--- | :---: |
@@ -68,6 +68,9 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade d
 | **Traduzindo Lógica para Python** |Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./) 
 | :--- | :--- | :---: |
 | **Engenharia de Contexto e Lógica Física** |Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./) 
+| :--- | :--- | :---: |
+| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto]
+
 
  
 #### 🗃️ Modelagem de Banco de Dados
