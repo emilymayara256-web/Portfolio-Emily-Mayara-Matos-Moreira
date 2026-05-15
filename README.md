@@ -61,11 +61,11 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade d
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** |Um programa que analisa a consitência de dados financeiros, utilizando escopo global/loal para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./algoritimo-de-auditoria-de-dados/) 
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** |Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto]() 
+| **Engenharia de Soluções Lógicas** |Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-de-soluções-lógicas) 
 | :--- | :--- | :---: |
-| **Modularização** |A arte da modularização. | [Ver Projeto](./) 
+| **Modularização** |A arte da modularização. | [Ver Projeto](./modularização) 
 | :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** |Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./) 
+| **Traduzindo Lógica para Python** |Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./traduzindo-lógica-para-python) 
 | :--- | :--- | :---: |
 | **Engenharia de Contexto e Lógica Física** |Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-lógica-) 
 | :--- | :--- | :---: |
