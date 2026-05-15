@@ -70,18 +70,6 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade d
 | **Engenharia de Contexto e Lógica Física** |Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-lógica-) 
 | :--- | :--- | :---: |
 | **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./desenhando-emoji-com-dados) 
-
-
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
  
 ---
  
