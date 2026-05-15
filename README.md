@@ -67,9 +67,9 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade d
 | :--- | :--- | :---: |
 | **Traduzindo Lógica para Python** |Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./) 
 | :--- | :--- | :---: |
-| **Engenharia de Contexto e Lógica Física** |Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./) 
+| **Engenharia de Contexto e Lógica Física** |Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-lógica-) 
 | :--- | :--- | :---: |
-| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto]
+| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./desenhando-emoji-com-dados) 
 
 
  
